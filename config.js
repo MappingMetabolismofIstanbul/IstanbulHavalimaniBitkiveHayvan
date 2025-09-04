@@ -56,7 +56,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/vxpBdMhK/MEF-AAP-027-BAP-PART-II-2025-07-31-07-11-30.png',
+            image: 'https://i.ibb.co/XfZMMVx1/MEF-AAP-027-BAP-PART-II-2025-09-04-12-45-10.png',
             description: '',
             location: {
                 center: [28.743,41.256],
